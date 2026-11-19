@@ -11,4 +11,5 @@
 #with datatype
 
 #Query parameter-->> user for searching and filtering (see lec-4 code)
-#optional parameter-->> we can give default value so if they are missing then it does not show error and show their default values
+#optional parameter-->> if they are missing then it does not show error
+#default parameter-->> if they are mising then shows its default values
