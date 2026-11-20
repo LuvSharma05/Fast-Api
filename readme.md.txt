@@ -17,3 +17,7 @@
 #post api-> post api cannot be test on browser we need to test it on postman or we can use swagger ui 
 #In this we can pass the data as dictionary
 #pyndatic: used to validate or define data structure
+
+
+#pydantic model-->> Also used to create schema(lec-6)
+#nested model-->connect one class to another class or we can use class into another class
