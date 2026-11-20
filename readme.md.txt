@@ -21,3 +21,6 @@
 
 #pydantic model-->> Also used to create schema(lec-6)
 #nested model-->connect one class to another class or we can use class into another class
+
+
+#crud operation-->>
