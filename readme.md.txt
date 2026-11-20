@@ -13,3 +13,7 @@
 #Query parameter-->> user for searching and filtering (see lec-4 code)
 #optional parameter-->> if they are missing then it does not show error
 #default parameter-->> if they are mising then shows its default values
+
+#post api-> post api cannot be test on browser we need to test it on postman or we can use swagger ui 
+#In this we can pass the data as dictionary
+#pyndatic: used to validate or define data structure
