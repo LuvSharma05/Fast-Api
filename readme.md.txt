@@ -23,4 +23,6 @@
 #nested model-->connect one class to another class or we can use class into another class
 
 
-#crud operation-->>
+#crud operation-->> lec-7
+
+# Path + Body + Query --> lec-8
