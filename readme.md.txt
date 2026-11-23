@@ -28,3 +28,5 @@
 # Path + Body + Query --> lec-8
 
 #Response model-->>it is used to hide data from frontend like sensitive information,even though sensitive data come fron databse but we will not show it to frontend(lec-9)
+
+#Status code-->>(lec-10)
