@@ -30,3 +30,11 @@
 #Response model-->>it is used to hide data from frontend like sensitive information,even though sensitive data come fron databse but we will not show it to frontend(lec-9)
 
 #Status code-->>(lec-10)
+
+#custom responses(lec-10)
+
+#error handling(lec-10)
+
+#custome exception-->>lec-11
+
+#global exception handler
