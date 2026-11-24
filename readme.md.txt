@@ -35,6 +35,6 @@
 
 #error handling(lec-10)
 
-#custome exception-->>lec-11
+#custome exception-->>lec-11--> error class created by us to handle error
 
-#global exception handler
+#global exception handler--->> used to show structure and well reponse when error occur
